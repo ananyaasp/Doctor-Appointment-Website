@@ -1,1 +1,2 @@
-# Doctor-Appointment-Website
+# Doctor Appointment Booking Website
+Designed and developed a full-stack web application to streamline the process of scheduling doctor appointments. The platform allows patients to register, log in, view doctor profiles, and book available time slots. Doctors can manage their schedules and view upcoming appointments. Key features include user authentication, real-time booking validation, appointment history, and responsive UI for better user experience. The project was built using HTML, CSS, JavaScript (frontend), Node.js (backend), and MongoDB (database). This project enhanced my understanding of RESTful APIs, CRUD operations, and end-to-end web development workflows.
